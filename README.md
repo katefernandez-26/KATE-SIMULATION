@@ -1,20 +1,20 @@
+# KATE-SIMULATION
 
-
-Interactive Web-Based Simulation Project
+### Interactive Web-Based Simulation Project
 
 KATE-SIMULATION is an interactive web project developed as part of my Information Technology studies. It demonstrates the use of basic web technologies to create an engaging and user-friendly simulation.
 
- Project Purpose
+## 🎯 Project Purpose
 
 The purpose of this project is to apply my knowledge of web development and create an interactive simulation that allows users to explore and interact with different features of the system.
 
- Technologies Used
+## 🛠️ Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
- Features
+## ✨ Features
 
 - Interactive user interface
 - User-friendly navigation
@@ -22,7 +22,7 @@ The purpose of this project is to apply my knowledge of web development and crea
 - Responsive web design
 - JavaScript-based interactions
 
- Learning Objectives
+## 📚 Learning Objectives
 
 Through this project, I practiced:
 
@@ -32,16 +32,17 @@ Through this project, I practiced:
 - Organizing files and project resources
 - Using GitHub to store and manage projects
 
-Developer
+## 👩‍💻 Developer
 
-Kate Fernandez
+**Kate Fernandez**
 
 Information Technology Student  
 Central Philippine State University
 
- GitHub
+### GitHub
 
 [@katefernandez-26](https://github.com/katefernandez-26)
 
 ---
- This project was created for educational and learning purposes.
+
+⭐ This project was created for educational and learning purposes.
